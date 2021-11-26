@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051001238651",
+    "project_id": "central-empatia",
+    "storage_bucket": "central-empatia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051001238651:android:151f1277531e87ea931ede",
+        "android_client_info": {
+          "package_name": "com.example.central_empatia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051001238651-09onu639s007oc2png0b83nm8p2lk8am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjumVWgHTF8BWq1AiO1Olqn8YiFG-EqOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051001238651-09onu639s007oc2png0b83nm8p2lk8am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
